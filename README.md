@@ -16,7 +16,7 @@ This is a command-line tic-tac-toe (X-O) game developed in Python using the Rich
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/pyLover2050/xo-game.git
+   git clone https://github.com/pyLover2050/X-O-game.git
    ```
 
 2. Navigate to the project directory:
