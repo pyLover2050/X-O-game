@@ -4,7 +4,7 @@
 
 This is a command-line tic-tac-toe (X-O) game developed in Python using the Rich library. The game allows you to play against a computer opponent.
 
-![Screenshot](screenshot.png)
+![Screenshot 2023-10-27-20-24-36](https://github.com/pyLover2050/X-O-game/assets/113103699/8deaa7cd-9899-4be9-85a3-79d9a8c767d6)
 
 ## Features
 
