@@ -22,7 +22,7 @@ This is a command-line tic-tac-toe (X-O) game developed in Python using the Rich
 2. Navigate to the project directory:
 
     ```shell
-    cd xo-game
+    cd X-O-game
     ```
 
 3. Install the required dependencies using pip:
